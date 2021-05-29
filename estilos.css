@@ -1,0 +1,11 @@
+@charset "utf-8";
+#todo {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#banner {
+    width: 800px;
+    height: 0px;
+}

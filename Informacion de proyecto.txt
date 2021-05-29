@@ -1,0 +1,5 @@
+Nombre del equipo: equipo de informatica #55
+
+Fecha de creacion: 22/05/21
+
+Sitio donde soporta la pagina: microsoft adge
